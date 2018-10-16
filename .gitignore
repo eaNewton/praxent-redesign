@@ -11,3 +11,4 @@ wp-config.php
 .capistrano
 log/capistrano.log
 .vscode/
+htdocs
